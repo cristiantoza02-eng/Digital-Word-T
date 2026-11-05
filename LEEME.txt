@@ -1,0 +1,33 @@
+DIGITAL WORD T — SITIO WEB
+
+DATOS CONFIGURADOS
+- Nombre: Digital word T
+- Ciudad: Pereira
+- WhatsApp: +57 312 278 3805
+- Presentación de precios: campos visibles para ingresar el precio real.
+
+ARCHIVOS
+- index.html: estructura, catálogo, menú y botones de WhatsApp.
+- styles.css: diseño adaptable a celular y computador.
+
+IMPORTANTE SOBRE LOS PRECIOS
+Los productos muestran "Precio: $ ______" como espacio editable. No se inventaron valores.
+Para publicar precios reales, abre index.html en un editor de texto y reemplaza cada "$ ______" por el valor correspondiente, por ejemplo "$ 39.900".
+
+WHATSAPP
+El número ya está configurado en formato internacional: 573122783805.
+Los botones de cada producto abren WhatsApp con un mensaje que menciona el producto.
+
+PUBLICAR GRATIS CON GITHUB PAGES
+1. Crea una cuenta en https://github.com/
+2. Crea un repositorio nuevo, por ejemplo: digital-word-t.
+3. Sube index.html y styles.css a la raíz del repositorio.
+4. En el repositorio entra a Settings > Pages.
+5. En "Build and deployment", elige "Deploy from a branch".
+6. Selecciona la rama main y la carpeta /(root), y guarda.
+7. GitHub te mostrará la dirección pública del sitio. Puede tardar unos minutos.
+
+ALTERNATIVA
+También puedes usar https://www.netlify.com/ y publicar la carpeta del sitio con su opción de despliegue manual.
+
+Antes de publicar, revisa que los precios estén completos y prueba los botones de WhatsApp.
